@@ -1,0 +1,2 @@
+/home/reyacido/StudioProjects/productos/android/app/.cxx/Debug/2p1y2772/x86/CMakeFiles/edit_cache.dir
+/home/reyacido/StudioProjects/productos/android/app/.cxx/Debug/2p1y2772/x86/CMakeFiles/rebuild_cache.dir
