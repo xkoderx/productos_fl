@@ -45,3 +45,4 @@ app.*.map.json
 
 # variables | api keys | hostnames
 *dotenv.dart
+pubspec.lock
